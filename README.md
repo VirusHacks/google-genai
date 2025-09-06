@@ -9,59 +9,76 @@ _Revolutionizing Education with AI-Powered Courses, Immersive AR Classrooms, and
 
 
 ## ✨ Overview
-**Edify AI** was born from a stark reality: **5 out of 6 students** are frustrated with traditional, outdated university education. With static curricula and limited access to enriching events, hackathons, and networking, today's learners need a new approach. Edify AI delivers a **personalized, dynamic learning platform** that adapts to industry demands and connects a global community of forward-thinking students.
+**Edify AI** addresses a real challenge: **5 out of 6 students** feel unprepared by traditional education for today's fast-changing job market. Curricula are outdated, and placement support is limited.
+
+Edify AI is not just another course platform. It's a **personalized career advisor** that:
+
+- Maps a student's skills, interests, and goals
+- Builds dynamic learning paths aligned with real job descriptions  
+- Prepares students with career readiness tools like ATS-proof resumes and mock interviews
+- Connects learners to real opportunities like internships, projects, and hackathons
+
+This makes Edify AI a **complete journey from first skill discovery to job placement**.
 
 ---
 
 ## 🚀 Key Features
 
-- **AI-Powered Personalized Learning Paths**  
-  - Custom courses tailored to your time, pace, and goals.  
-  - Boosts learning efficiency by **up to 90%**.
+- **Skill Mapping & Gap Analysis**  
+  - Students input skills and goals → AI compares with live job descriptions.  
+  - Highlights exact skill gaps for chosen career paths.
 
-- **AI Course Generation**  
-  - Automatically curates high-quality videos with an **85% relevancy score**, slashing manual curation time by **50%**.  
-  - Integrated code editor for hands-on tech practice and curated multimedia for non-tech courses.
+- **Personalized Learning Paths**  
+  - AI generates adaptive roadmaps tailored to time, pace, and career goals.  
+  - Updates continuously with industry trends and recruiter needs.
 
-- **Immersive Community & AR Classrooms**  
-  - Engage in vibrant, interactive forums and **AR-based virtual classrooms** for real-time, global networking.  
-  - Experience collaborative learning that shatters the limitations of traditional online education.
+- **AI-Powered Course Generation**  
+  - Curates top content (**85–90% relevancy**) from trusted sources.  
+  - Hands-on learning with integrated code editor and project guidance.
 
 - **Career Readiness Tools**  
-  - Create ATS-optimized resumes that stand out.  
-  - Practice with AI-powered mock interviews analyzing tone, facial expressions, and responses—boosting interview success by **up to 70%**.
+  - Automated ATS-friendly resume builder.  
+  - AI mock interviews with feedback on tone, delivery, and content — boosting confidence and success.
+
+- **Opportunity Access & Networking**  
+  - Consolidates hackathons, internships, scholarships, and events in one feed.  
+  - Community forums and peer-to-peer mentorship foster accountability and collaboration.
+
+- **Immersive AR Classrooms**  
+  - Global, interactive classrooms with real-time collaboration.  
+  - Builds communication, teamwork, and problem-solving skills.
 
 ---
 
 ## 🔥 Challenges We Overcame
 
-- **Seamless Data Integration:**  
-  Built robust AI agents that interface flawlessly with our database, ensuring real-time accuracy and a consistent schema.
+- **Accurate Skill Gap Mapping:**  
+  Built models that map individual skills directly to live job requirements, ensuring precision.
 
-- **Adaptive Content Curation:**  
-  Developed advanced NLP filters to select the best YouTube videos—achieving a **90% relevancy rate** in course generation.
+- **Adaptive Roadmaps:**  
+  Developed AI that adjusts learning plans in real-time based on progress and updated goals.
 
-- **Dynamic Peer Engagement:**  
-  Crafted an innovative, real-time chat system that increased community participation by **40%**.
+- **Seamless Integration of Career Tools:**  
+  Linked resume builder, mock interviews, and opportunity scraping into one unified workflow.
 
 - **Scalability & Performance:**  
-  Migrated our codebase to a Next.js microservices architecture, delivering sub-2-second response times even under heavy load.
+  Optimized with Next.js microservices → sub-2s response time even with heavy usage.
 
 ---
 
 ## 🛠️ Implementation
 
-- **Scalability & Speed:**  
-  Leveraged **Next.js** with server-side rendering and microservices to ensure seamless load balancing and rapid AI responses.
+- **Scalable Architecture:**  
+  Next.js with server-side rendering for high performance.
 
-- **Custom AI Training:**  
-  Trained on proprietary datasets tailored to our unique requirements, ensuring AI agents that align perfectly with our database schema and user needs.
+- **Custom AI Models:**  
+  Trained on proprietary career datasets aligned with real-world job postings.
 
-- **Optimized Communication:**  
-  Utilized efficient socket connections to power real-time interactions, ensuring smooth mock interviews and live peer sessions.
+- **Integrated Career Stack:**  
+  Unified modules for skill mapping → learning → career prep → opportunities.
 
-- **Rigorous Testing:**  
-  Comprehensive A/B, load, and latency testing guarantee a frictionless experience with response times consistently under **2 seconds**.
+- **Real-Time Communication:**  
+  Socket-powered peer sessions and mock interviews without latency.
 
 ---
 
@@ -127,8 +144,8 @@ _Revolutionizing Education with AI-Powered Courses, Immersive AR Classrooms, and
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/VirusHacks/EdifyAI
-  cd EdifyAI/
+   git clone https://github.com/VirusHacks/google-genai
+  cd google-genai/
    ```
 2. **Install Dependencies**
 ```bash

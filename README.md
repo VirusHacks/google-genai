@@ -148,9 +148,9 @@ This makes Edify AI a **complete journey from first skill discovery to job place
   cd google-genai/
    ```
 2. **Install Dependencies**
-```bash
-npm install
-```
+  ```bash
+  npm install
+  ```
 3. **Run the Website**
 ```bash
 npm run dev

@@ -145,8 +145,9 @@ This makes Edify AI a **complete journey from first skill discovery to job place
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/VirusHacks/google-genai
-  cd google-genai/
-   ```
+   cd google-genai/
+  ```
+  
 2. **Install Dependencies**
   ```bash
   npm install

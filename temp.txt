@@ -1,2 +1,3 @@
 
 // feat: create course dashboard layout and components - Commit 11
+// feat: set up Drizzle ORM with PostgreSQL connection - Commit 2

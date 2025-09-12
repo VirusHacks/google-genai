@@ -52,7 +52,6 @@ versions/
 
 # Config files (will be uncommented gradually)
 components.json
-drizzle.config.ts
 jsconfig.json
 next.config.mjs
 nyxbui.json

@@ -3,3 +3,4 @@
 // feat: set up Drizzle ORM with PostgreSQL connection - Commit 2
 // feat: set up Google AI integration for course generation - Commit 10
 // feat: create course card components with CRUD operations - Commit 17
+// feat: add internship scraping functionality - Commit 28

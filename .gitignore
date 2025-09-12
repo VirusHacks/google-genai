@@ -42,7 +42,6 @@ components/
 configs/
 constant/
 context/
-db/
 drizzle/
 features/
 lib/

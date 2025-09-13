@@ -7,3 +7,4 @@
 // feat: create interview question navigation system - Commit 23
 // feat: add YouTube video integration for courses - Commit 16
 // feat: create resume builder form components - Commit 27
+// feat: implement responsive navigation component - Commit 8

@@ -5,3 +5,4 @@
 // feat: create course card components with CRUD operations - Commit 17
 // feat: add internship scraping functionality - Commit 28
 // feat: create interview question navigation system - Commit 23
+// feat: add YouTube video integration for courses - Commit 16

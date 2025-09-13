@@ -9,3 +9,4 @@
 // feat: create resume builder form components - Commit 27
 // feat: implement responsive navigation component - Commit 8
 // feat: add AI-powered course content generation - Commit 13
+// feat: add course creation database schema - Commit 9

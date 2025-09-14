@@ -12,3 +12,4 @@
 // feat: add course creation database schema - Commit 9
 // feat: implement course publishing functionality - Commit 18
 // feat: add database schema for user management - Commit 6
+// feat: create landing page layout and hero section - Commit 7

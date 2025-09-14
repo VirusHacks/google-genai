@@ -42,7 +42,6 @@ configs/
 constant/
 drizzle/
 features/
-lib/
 public/
 types/
 versions/

@@ -11,3 +11,4 @@
 // feat: add AI-powered course content generation - Commit 13
 // feat: add course creation database schema - Commit 9
 // feat: implement course publishing functionality - Commit 18
+// feat: add database schema for user management - Commit 6

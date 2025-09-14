@@ -40,7 +40,6 @@ next-env.d.ts
 app/
 configs/
 constant/
-context/
 drizzle/
 features/
 lib/

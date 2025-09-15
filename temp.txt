@@ -16,3 +16,4 @@
 // feat: implement course creation form with validation - Commit 12
 // feat: add webcam recording functionality for interviews - Commit 22
 // feat: implement answer recording and evaluation - Commit 24
+// feat: add mock interview database schema - Commit 19

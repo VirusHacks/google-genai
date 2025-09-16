@@ -19,3 +19,4 @@
 // feat: add mock interview database schema - Commit 19
 // feat: create internship listing and filtering system - Commit 29
 // feat: implement chapter and lesson structure - Commit 15
+// feat: create basic project structure and routing layout - Commit 4

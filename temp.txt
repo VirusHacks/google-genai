@@ -20,3 +20,4 @@
 // feat: create internship listing and filtering system - Commit 29
 // feat: implement chapter and lesson structure - Commit 15
 // feat: create basic project structure and routing layout - Commit 4
+// feat: initialize Next.js project with TypeScript and Tailwind CSS - Commit 1

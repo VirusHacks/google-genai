@@ -47,13 +47,8 @@ versions/
 # Config files (will be uncommented gradually)
 components.json
 jsconfig.json
-next.config.mjs
 nyxbui.json
-package.json
-postcss.config.mjs
 README.md
-tailwind.config.ts
-tsconfig.json
 
 # Ignore commits script initially
 commits.js

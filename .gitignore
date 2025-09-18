@@ -41,7 +41,6 @@ configs/
 drizzle/
 features/
 public/
-types/
 versions/
 
 # Config files (will be uncommented gradually)

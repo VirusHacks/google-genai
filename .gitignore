@@ -40,7 +40,6 @@ next-env.d.ts
 configs/
 drizzle/
 features/
-public/
 versions/
 
 # Config files (will be uncommented gradually)

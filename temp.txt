@@ -23,3 +23,4 @@
 // feat: initialize Next.js project with TypeScript and Tailwind CSS - Commit 1
 // feat: create course display and management system - Commit 14
 // feat: add Kinde authentication configuration - Commit 3
+// feat: add resume builder database schema - Commit 26

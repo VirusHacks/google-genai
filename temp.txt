@@ -26,3 +26,4 @@
 // feat: add resume builder database schema - Commit 26
 // feat: create mock interview dashboard layout - Commit 20
 // feat: add AI feedback system for interview responses - Commit 25
+// feat: implement user authentication flow with Kinde - Commit 5

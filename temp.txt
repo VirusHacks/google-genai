@@ -28,3 +28,4 @@
 // feat: add AI feedback system for interview responses - Commit 25
 // feat: implement user authentication flow with Kinde - Commit 5
 // docs: add comprehensive README with features and setup instructions - Commit 30
+// feat: implement AI-powered interview question generation - Commit 21

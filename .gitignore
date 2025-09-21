@@ -44,7 +44,5 @@ versions/
 # Config files (will be uncommented gradually)
 jsconfig.json
 nyxbui.json
-README.md
 
 # Ignore commits script initially
-commits.js
